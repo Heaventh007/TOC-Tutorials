@@ -1,6 +1,6 @@
 # How to install textures
 
-- Inside if your 'hPatch' folder, create a folder called 'textures'.
+- Inside of your 'hPatch' folder, create a folder called 'textures'.
 <img width="565" height="151" alt="image" src="https://github.com/user-attachments/assets/6d3cf58c-8386-4eea-8f70-cb9f23e59162" />
 
 
