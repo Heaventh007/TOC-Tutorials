@@ -13,3 +13,7 @@ For example: `patch_zm`
 
 - To install a custom script, simply drag over the folder into the root of your hPatch folder.
 <img width="566" height="151" alt="image" src="https://github.com/user-attachments/assets/148341c3-c246-4e95-bbdd-245439c5b01d" />
+
+### NOTE: 
+ - This is NOT the same as putting in maps/mp/gametypes_zm/_clientids.gsc
+ - Instead of replacing a GSC, this loads a NEW custom one. 
