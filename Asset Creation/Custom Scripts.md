@@ -29,6 +29,14 @@ Folder\example3.gsc
 
 ```
 
+*Starting with v1.0.1, you're able to patch in any raw files*
+### PatchInRaw.txt file example
+```
+example.cfg
+example2.txt
+Folder\example.cfg
+```
+
 ### NOTE: 
  - This is NOT the same as putting in hPatch/maps/mp/gametypes_zm/_clientids.gsc
  - Instead of replacing a GSC, this loads a NEW custom one. 
