@@ -6,7 +6,7 @@
 - Overwriting localized text
 - Adding new localized text
 
-### Editing
+### Editing/Adding
 - Create the localization folder: **hPatch\english**
 - Create a file with no extension that is named the exact name of the localized text. (ex: MENU_MAIN_MENU)
 - Using notepad, or any hex editor, type in the text you'd like to have it resolve to. (ex: Main Menu)
